@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+repomix-output.xml
+.ipynb_checkpoints/
+*.csv
+.DS_Store
